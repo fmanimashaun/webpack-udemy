@@ -1,0 +1,14 @@
+@use 'reset.css';
+
+$bg-color: red;
+$text-color: white;
+$blue: #0000ff;
+
+body {
+  background-color: $bg-color;
+  color: $text-color;
+}
+
+.nav-list {
+  background-color: $blue;
+}
